@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='message-error validation-summary-errors']"
+}

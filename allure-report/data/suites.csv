@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 06 23:01:17 EAT 2023","Thu Jul 06 23:01:37 EAT 2023","20133","","Login Functionality","","","","Verify login with wrong credentials",""
+"passed","Thu Jul 06 23:01:07 EAT 2023","Thu Jul 06 23:01:17 EAT 2023","9201","","Login Functionality","","","","Verify Forgot Password Link",""
+"passed","Thu Jul 06 23:01:37 EAT 2023","Thu Jul 06 23:01:53 EAT 2023","16008","","Login Functionality","","","","Verify Login",""
+"passed","Thu Jul 06 22:53:42 EAT 2023","Thu Jul 06 22:54:32 EAT 2023","49369","","Signup functionality","","","","verify signup",""
+"passed","Thu Jul 06 22:54:32 EAT 2023","Thu Jul 06 22:54:32 EAT 2023","82","","Signup functionality","","","","Verify Success Message",""
